@@ -1,13 +1,21 @@
 nav{
 display: flex;
-
- background-color:darkgrey;
- align-items: center;
+background-color:darkgrey;
+align-items: center;
+padding : 10px;
+height: 60px;
+font-size:20px;
 
 
 }
 
+h3{
+  margin :0 auto;
+}
 
+p{
+  margin :0 auto;
+}
 
 body {
   margin: 0;
